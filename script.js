@@ -28,6 +28,12 @@ var slider = tns({
     autoHeight: true,
     mouseDrag: true,
     responsive: {
+        340: {
+            items: 1,
+        },
+        400: {
+            items: 1,
+        },
         640: {
             items: 1,
         },
@@ -54,6 +60,12 @@ var slider = tns({
         autoHeight: true,
         mouseDrag: true,
         responsive: {
+            340: {
+                items: 1,
+            },
+            400: {
+                items: 1,
+            },
             640: {
                 items: 1,
             },
